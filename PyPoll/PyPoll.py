@@ -72,7 +72,7 @@ with open(csvpath) as csvfile:
     print("-------------------------")
 
     # Write the Results of Total Votes and Each Individual Candidates' Percentage and Total Votes to a Text File
-    TextFile = open(r".\PyPoll\Output\PyPoll_Output.txt", "w")
+    TextFile = open(r".\PyPoll\PyPoll_Output.txt", "w")
     
     TextFile.write("Election Results")
     TextFile.write("\n")

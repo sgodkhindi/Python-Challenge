@@ -94,7 +94,7 @@ with open(csvpath) as csvfile:
     print ("Average Change: "+ str(round(sum(allPNL)/len(allPNL),2)))
     
     # Store the computed values into a text tfile
-    TextFile = open(r".\PyBank\Output\PyBank_Output.txt", "w")
+    TextFile = open(r".\PyBank\PyBank_Output.txt", "w")
     
     TextFile.write("Total: "+str(totalPNL))
     TextFile.write("\n")
