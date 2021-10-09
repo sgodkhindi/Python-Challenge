@@ -1,6 +1,6 @@
 # Python-Challenge
  Data Visualization Course Python Assignment Submission
-# Python Homework - Py Me Up, Charlie
+# Python Homework - Py Me Up, Charlie!
 
 ## Background
 
